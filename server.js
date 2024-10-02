@@ -74,6 +74,10 @@ app.listen(3000)
 -Editar vários usuários
 -Deletar um usuário
 
+-Database
+username: ruanwesley93
+Password: SkBkKsDGDdOTkgkD
+
 -Prisma Studio Comando
 $ npx prisma studio
 

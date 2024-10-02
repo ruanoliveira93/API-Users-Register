@@ -12,9 +12,10 @@
   "description": "",
   "dependencies": {
     "@prisma/client": "^5.15.0",
+    "api-backend": "file:",
     "cors": "^2.8.5",
-    "express": "^4.19.2",
-    "mongodb": "^6.7.0"
+    "express": "^4.21.0",
+    "mongodb": "^6.9.0"
   },
   "devDependencies": {
     "prisma": "^5.15.0"
